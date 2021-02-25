@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "jhaals"
+  description: "opop"
+  annotations:
+    github.com/project-slug: blamdemo/new-repo20
+    backstage.io/techdocs-ref: url:https://github.com/blamdemo/new-repo20
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "ooooop"

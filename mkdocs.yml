@@ -1,0 +1,8 @@
+site_name: "jhaals"
+site_description: "opop"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
